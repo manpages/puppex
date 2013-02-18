@@ -1,0 +1,7 @@
+[ "erlgit": {:git,"https://github.com/gleber/erlgit.git","9054c2aa66e776cab60f660b2adf364ff9d9783b",[]},
+  "erlsemver": {:git,"https://github.com/gleber/erlsemver.git","6486563ce3c02a4d0b35463c66a9d4a3ed5ed404",[]},
+  "exconfig": {:git,"https://github.com/yrashk/exconfig.git","9f02d06c3fba132839cff1f9a639fd63aa2155a3",[]},
+  "exreloader": {:git,"https://github.com/yrashk/exreloader.git","0698218d917d731a267be929fcfac07782b5a74c",[]},
+  "genx": {:git,"https://github.com/yrashk/genx.git","85fc66c93e5e5711635e5d031a4031538b295ce0",[]},
+  "sh": {:git,"https://github.com/gleber/sh.git","8387947617318f5b97c319eff9c2960939a91b5b",[]},
+  "xup": {:git,"https://github.com/yrashk/xup.git","c0557711509d4e2c6dd0ed7fe57bdc0441c1a59d",[]} ]

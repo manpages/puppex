@@ -1,0 +1,2 @@
+defmodule Puppex do
+end
